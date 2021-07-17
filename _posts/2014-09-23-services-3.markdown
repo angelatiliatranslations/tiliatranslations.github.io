@@ -3,6 +3,14 @@ layout: default
 img: proofreading.jpg
 category: Services
 title: Proofreading
-description: |
+description: proofreading, korekty, correzione bozze
 ---
-Descrizione per proofreading
+<p>
+  I proofread texts in Italian.
+</p>
+<p>
+Oferuję korekty tekstów w języku włoskim.
+</p>
+<p>
+Mi occupo della correzione di bozze di testi in lingua italiana.
+</p>
