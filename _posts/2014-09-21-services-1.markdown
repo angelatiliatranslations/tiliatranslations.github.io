@@ -5,8 +5,12 @@ category: Services
 title: Translations
 description: translations, tłumaczenia, traduzioni
 ---
+<p>
 I provide professional translations from English to Italian and from Polish to Italian.
-<br>
+</p>
+<p>
 Zajmuję się profesjonalnymi tłumaczeniami z polskiego na włoski i z angielskiego na włoski.
-<br>
+</p>
+<p>
 Fornisco traduzioni professionali dall’inglese all’italiano e dal polacco all’italiano.
+</p>
