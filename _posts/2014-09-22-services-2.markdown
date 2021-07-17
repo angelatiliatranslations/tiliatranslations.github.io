@@ -2,7 +2,15 @@
 layout: default
 img: trascrizioni.jpg
 category: Services
-title: Transciptions
-description: |
+title: Transcriptions
+description: transcriptions, transkrypcje, trascrizioni
 ---
-  Descrizione per servizio trascrizioni
+<p>
+I provide transcriptions of recordings in Italian.
+</p>
+<p>
+Zajmuję się transkrypcjami nagrań w języku włoskim.
+</p>
+<p>
+Offro servizi di trascrizione di registrazioni in lingua italiana.
+</p>
