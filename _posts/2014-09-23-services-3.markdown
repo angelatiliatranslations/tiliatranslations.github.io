@@ -14,3 +14,8 @@ Oferuję korekty tekstów w języku włoskim.
 <p>
 Mi occupo della correzione di bozze di testi in lingua italiana.
 </p>
+<br>
+<p>
+  <a href="mailto:angela@tiliatranslations.it">Get in touch.</a>
+</p>
+
