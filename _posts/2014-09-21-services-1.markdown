@@ -3,6 +3,10 @@ layout: default
 img: traduzioni.jpg
 category: Services
 title: Translations
-description: |
+description: translations, tłumaczenia, traduzioni
 ---
-  Traduzioni dall'inglese all'italiano e dal polacco all'italiano
+I provide professional translations from English to Italian and from Polish to Italian.
+<br>
+Zajmuję się profesjonalnymi tłumaczeniami z polskiego na włoski i z angielskiego na włoski.
+<br>
+Fornisco traduzioni professionali dall’inglese all’italiano e dal polacco all’italiano.
