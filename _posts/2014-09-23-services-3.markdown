@@ -1,6 +1,6 @@
 ---
 layout: default
-img: proofreading.jpg
+img: 6.png
 category: Services
 title: Proofreading & Academic Proofreading
 description: proofreading, korekty, correzione bozze
