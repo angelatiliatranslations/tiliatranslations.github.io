@@ -2,7 +2,7 @@
 layout: default
 img: 2.jpg
 category: Services
-title: Translations & Localization
+title: Translations & Localization &#127795;
 description: translations, tłumaczenia, traduzioni, localization, lokalizacja, localizzazione, xl8, tn9, l10n
 ---
 &#127468;&#127463; &#127482;&#127480;
