@@ -5,6 +5,7 @@ category: Services
 title: Proofreading & Academic Proofreading
 description: proofreading, korekty, correzione bozze
 ---
+&#58640; &#58636;
 <p>
 I proofread texts written in Italian, including academic texts such as papers and dissertations. Feel free to send me an email including the text you want to be proofread in order to get a free quote or more information.
 </p>
