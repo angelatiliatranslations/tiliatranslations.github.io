@@ -8,6 +8,7 @@ description: translations, tłumaczenia, traduzioni, localization, lokalizacja, 
 <p>
 I provide professional translations from English to Italian and from Polish to Italian, and offer website localization services for the Italian market. Feel free to send me an email including the text you want to be translated in order to get a free quote or more information.
 </p>
+&#127477;&#127473;
 <p>
 Zajmuję się profesjonalnymi tłumaczeniami z polskiego na włoski i z angielskiego na włoski. Dodatkowo zajmuję się lokalizacją stron internetowych. Proszę wysłać mi e-mail z tekstem do przetłumaczenia w celu uzyskania dalszych informacji lub bezpłatnej wyceny.
 </p>
