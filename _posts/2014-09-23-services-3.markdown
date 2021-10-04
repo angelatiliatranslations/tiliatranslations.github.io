@@ -1,6 +1,6 @@
 ---
 layout: default
-img: revisioniNEW.png
+img: REVISIONI.jpg
 category: Services
 title: Proofreading & Academic Proofreading &#127891;
 description: proofreading, korekty, correzione bozze
