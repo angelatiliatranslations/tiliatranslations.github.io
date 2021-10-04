@@ -5,18 +5,20 @@ category: Services
 title: Proofreading & Academic Proofreading &#127891;
 description: proofreading, korekty, correzione bozze
 ---
-&#127468;&#127463; &#127482;&#127480;
 <p>
 I proofread texts written in Italian, including academic texts such as papers and dissertations. Feel free to send me an email including the text you want to be proofread in order to get a free quote or more information.
 </p>
-&#127477;&#127473;
+<a href="mailto:angela@tiliatranslations.it">Request a free quote.</a>
+
+<h2>Weryfikację tłumaczeń i korektę tekstów</h2>
 <p>
 Oferuję korekty tekstów w języku włoskim. Robię korekty tekstów akademickich, na przykład wypracowanie albo praca magisterska. Proszę wysłać mi e-mail z tekstem do korekty w celu uzyskania dalszych informacji lub bezpłatnej wyceny.
 </p>
-&#127470;&#127481;
+<a href="mailto:angela@tiliatranslations.it">Uzyskaj bezpłatną wycenę.</a>
+
+<h2>Revisioni e correzione di bozze</h2>
 <p>
 Mi occupo della correzione di bozze di testi in lingua italiana inclusi testi di tipo accademico come tesine e tesi. Per ottenere un preventivo gratuito inviami il file che hai bisogno di far correggere e ti fornirò volentieri maggiori informazioni.
 </p>
-  <a href="mailto:angela@tiliatranslations.it">Request a free quote. · Uzyskaj bezpłatną wycenę. · Richiedi gratuitamente un preventivo.</a>
-
+<a href="mailto:angela@tiliatranslations.it">Richiedi gratuitamente un preventivo.</a>
 
