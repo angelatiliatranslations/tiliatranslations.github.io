@@ -1,6 +1,6 @@
 ---
 layout: default
-img: traduzioniNEW.png
+img: TRADUZIONI.jpg
 category: Services
 title: Translations & Localization &#127760;
 description: translations, tłumaczenia, traduzioni, localization, lokalizacja, localizzazione, xl8, tn9, l10n
