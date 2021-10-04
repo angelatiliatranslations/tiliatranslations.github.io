@@ -1,6 +1,6 @@
 ---
 layout: default
-img: trascrizioniNEW.png
+img: TRASCRIZIONI.jpg
 category: Services
 title: Transcriptions &#127911;
 description: transcriptions, transkrypcje, trascrizioni
