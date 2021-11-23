@@ -1,8 +1,8 @@
 ---
 layout: default
-img: 3.jpg
+img: 4.jpg
 category: Services
-title: Revisioni di testi e di traduzioni in italiano &#128209;
+title: Practice your English: sgranchisci il tuo inglese online &#129336;
 description: proofreading, korekty, correzione bozze
 ---
 <p>
