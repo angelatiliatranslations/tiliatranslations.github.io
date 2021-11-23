@@ -2,7 +2,7 @@
 layout: default
 img: 4.jpg
 category: Services
-title: Practice your English: sgranchisci il tuo inglese online &#129336;
+title: Practice your English
 description: proofreading, korekty, correzione bozze
 ---
 <p>
