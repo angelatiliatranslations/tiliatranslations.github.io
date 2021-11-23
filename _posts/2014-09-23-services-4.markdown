@@ -2,8 +2,8 @@
 layout: default
 img: 4.jpg
 category: Services
-title: Revisioni di testi e di traduzioni in italiano &#128209;
-description: proofreading, korekty, correzione bozze
+title: Practice your English: sgranchisci il tuo inglese online &#129336;
+description: inglese, lezioni di inglese, conversation, listening, lezioni private, lezioni online, inglese online, conversazione, ascolto
 ---
 <p>
 Molte persone che crescono in Italia hanno delle difficoltà a comunicare in inglese con scioltezza. Questo avviene perché, nell’apprendimento di questa lingua, spesso non si dedica regolarmente del tempo a esercitarsi nella conversazione e nell’ascolto. Tutte le lingue nascono per prima cosa per comunicare a voce, quindi è una buona idea partire da questo per acquisire via via più sicurezza. Vorresti l’aiuto di un’esperta linguistica? Questo programma nasce proprio per aiutare le persone che parlano l’italiano a sgranchire il proprio inglese e a usarlo finalmente nella vita reale. Il percorso prevede l’alternarsi di due tipi di lezioni individuali online:
