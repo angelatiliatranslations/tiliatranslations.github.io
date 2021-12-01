@@ -3,7 +3,7 @@ layout: default
 img: 1.jpg
 category: Services
 title: Traduzioni di testi &#127760;
-description: translations, tłumaczenia, traduzioni, localization, lokalizacja, localizzazione, xl8, tn9, l10n
+description: traduzione inglese italiano, traduzione polacco italiano
 ---
 <p>
 Quando fai tradurre un testo le tue parole intraprendono un viaggio verso un’incredibile destinazione. Se sei alla ricerca di una professionista che traduca il tuo testo dall’inglese all’italiano o dal polacco all’italiano, posso aiutarti a rendere il viaggio più confortevole. I testi sull’arte, la produzione artigianale, la sostenibilità, la moda, il marketing e la pubblicità sono la mia specialità ma, nel caso il tuo testo non rientrasse in queste categorie, niente paura. Se hai un dubbio puoi scrivermi una mail senza impegno e spiegarmi il tuo progetto. Il costo del servizio di traduzione viene sempre calcolato in base al numero di parole presenti nel testo di partenza e include: analisi del testo, ricerca terminologica, traduzione e revisione finale.
