@@ -3,7 +3,7 @@ layout: default
 img: 3.jpg
 category: Services
 title: Revisioni di testi e di traduzioni in italiano &#128209;
-description: proofreading, korekty, correzione bozze
+description: revisione testi correzione, revisione testo, revisione traduzione inglese, revisione traduzione polacco
 ---
 <p>
 Scrivere o tradurre un testo richiede un incredibile sforzo di creatività e ingegno ed è un peccato quando un buon lavoro viene intaccato da sviste o errori di ortografia. Se i tuoi occhi sono stanchi per via delle continue riletture, affidare il tuo testo a una professionista può essere una soluzione. Mi occupo di revisioni di testi di tipo professionale e personale, compresi testi universitari come saggi e tesi. Il costo del servizio di revisione viene sempre calcolato in base a una tariffa oraria e include: analisi del testo, ricerca terminologica, revisione finale e segnalazione dei refusi. Per le revisioni di traduzioni dall’inglese e dal polacco all’italiano la tariffa include il confronto del testo tradotto con il testo originale.
