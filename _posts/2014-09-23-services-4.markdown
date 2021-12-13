@@ -21,7 +21,7 @@ Guarda <a href="https://www.youtube.com/watch?v=BRurCZQJ2YI">il video</a> dove t
 <strong>✔️ Tariffa oraria</strong>: €40
 </p>
 <p>
-<strong>✔️ Pacchetto da 6 lezioni riacquistabile</strong>: <del>€200</del> €170 con la <strong>promo delle feste</strong>*
+<strong>✔️ Pacchetto da 6 lezioni riacquistabile</strong>: <del>€200</del> €170 con la <span style="text-decoration:underline;">promo delle feste</span>*
 </p>
 <p>
 *<em>La promozione è valida per chi acquista un pacchetto da 6 lezioni entro le ore 21:00 del 21 dicembre 2021 (ora italiana).</em>
