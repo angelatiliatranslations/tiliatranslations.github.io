@@ -1,7 +1,7 @@
 ---
 layout: default
 img: 3.jpg
-category: Servizi
+category: Services
 title: Revisioni di testi e di traduzioni in italiano &#128209;
 description: revisione testi correzione, revisione testo, revisione traduzione inglese, revisione traduzione polacco
 ---
