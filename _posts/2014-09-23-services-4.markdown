@@ -1,7 +1,7 @@
 ---
 layout: default
 img: 4.jpg
-category: Servizi
+category: Services
 title: Practice your English · Lezioni online di inglese &#129336;
 description: lezioni inglese, lezioni a distanza inglese, lezioni inglese treviso, lezioni inglese individuali, inglese conversazione, inglese ascolto, lezioni inglese online
 ---
