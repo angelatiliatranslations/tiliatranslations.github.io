@@ -8,12 +8,10 @@ description: lezioni inglese, lezioni a distanza inglese, lezioni inglese trevis
 <p>
 Molte persone che crescono in Italia hanno delle difficoltà a comunicare in inglese con scioltezza. Questo avviene perché, nell’apprendimento di questa lingua, spesso non si dedica regolarmente del tempo a esercitarsi nella conversazione e nell’ascolto. Tutte le lingue nascono per prima cosa per comunicare a voce, quindi è una buona idea partire da questo per acquisire via via più sicurezza. Vorresti l’aiuto di un’esperta linguistica? Questo programma nasce proprio per aiutare le persone che parlano l’italiano a sgranchire il proprio inglese e a usarlo finalmente nella vita reale. Il percorso prevede l’alternarsi di due tipi di lezioni individuali online da 60 minuti:
 </p>
-<p>
-🟢 Pratica di conversazione su temi scelti insieme a te
-</p>
-<p>
-🟢 Pratica di ascolto con video e esercizi mirati su temi scelti insieme a te
-</p>
+<ul type="disc">    
+    <li>Pratica di conversazione su temi scelti insieme a te</li>
+    <li>Pratica di ascolto con video e esercizi mirati su temi scelti insieme a te</li>
+</ul>
 <p>
 Guarda <a href="https://www.youtube.com/watch?v=BRurCZQJ2YI">il video</a> dove ti racconto il programma a voce. Una volta acquistato un pacchetto di lezioni avrai accesso al mio calendario e sceglierai il giorno e l’orario che trovi più comodi.
 </p>
