@@ -15,5 +15,5 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <strong>✔️ Tariffa oraria</strong>: €25
 </p>
 <p>
-Vorrei <a href="mailto:angela@tiliatranslations.it">contattarti</a> per prenotare una lezione.
+<a href="mailto:angela@tiliatranslations.it">Vorrei contattarti per prenotare una lezione.</a>
 </p>
