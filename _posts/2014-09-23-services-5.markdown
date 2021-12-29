@@ -12,7 +12,9 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <strong>✔️ Supporto linguistico su un tema specifico</strong>
 </p>
 <p>
-<strong>✔️ Tariffa oraria</strong>: €25, tutto compreso
+<strong>✔️ Tariffa oraria</strong>: €25
+<br>
+— tutto compreso
 </p>
 <p>
 <a href="mailto:angela@tiliatranslations.it">Vorrei contattarti per prenotare una lezione.</a>
