@@ -14,4 +14,6 @@ Quando fai tradurre un testo le tue parole intraprendono un viaggio verso un’i
 <p>
 <strong>✔️ Tariffa a parola</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Vorrei richiedere un preventivo gratuito.</a>
+<p>
+Vorresti richiedere un preventivo gratuito? Contattami liberamente via mail.
+</p>
