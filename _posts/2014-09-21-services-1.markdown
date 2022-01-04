@@ -18,5 +18,7 @@ Quando fai tradurre un testo le tue parole intraprendono un viaggio verso un’i
 <strong>✔️ Tariffa a parola</strong>
 </p>
 <p>
-Vorresti richiedere un preventivo gratuito? Contattami liberamente via mail.
+Vorresti richiedere un preventivo gratuito? 
+<br>
+Contattami liberamente via mail.
 </p>
