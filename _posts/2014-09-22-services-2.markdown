@@ -18,5 +18,7 @@ Spesso quello che si vuole ottenere dalla trascrizione di una registrazione non 
 <strong>✔️ Tariffa oraria</strong>
 </p>
 <p>
-Vorresti richiedere un preventivo gratuito? Contattami liberamente via mail.
+Vorresti richiedere un preventivo gratuito? 
+<br>
+Contattami liberamente via mail.
 </p>
