@@ -2,7 +2,7 @@
 layout: default
 img: 1.jpg
 category: Services
-title: Traduzioni &#127760;
+title: Traduzioni
 description: traduzione inglese italiano, traduzione polacco italiano
 ---
 <p>
