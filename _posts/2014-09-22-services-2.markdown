@@ -2,7 +2,7 @@
 layout: default
 img: 2.jpg
 category: Services
-title: Trascrizione di registrazioni in italiano &#127911;
+title: Trascrizione di registrazioni in italiano
 description: trascrizione audio in testo, trascrizione audio italiano
 ---
 <p>
