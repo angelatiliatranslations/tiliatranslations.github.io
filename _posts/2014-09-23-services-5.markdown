@@ -18,7 +18,7 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <strong>✔️ Metodo di pagamento:</strong> bonifico bancario
 </p>
 <p>
-<strong>✔️ Tariffa a lezione</strong>
+<strong>✔️ Tariffa oraria</strong>
 </p>
 <p>
 Vorresti prenotare una lezione? 
