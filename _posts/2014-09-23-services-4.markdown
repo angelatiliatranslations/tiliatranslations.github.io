@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 4.jpg
+img: practice your english.jpg
 category: Services
 title: Practice your English · Conversazione e esercizi di ascolto in inglese
 description: lezioni inglese, lezioni a distanza inglese, lezioni inglese treviso, lezioni inglese individuali, inglese conversazione, inglese ascolto, lezioni inglese online
