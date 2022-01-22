@@ -1,6 +1,6 @@
 ---
 layout: default
-img: refresh.jpg
+img: language refresh.jpg
 category: Services
 title: Language Refresh · Risolvo i tuoi dubbi linguistici online
 description: ripetizioni inglese online
