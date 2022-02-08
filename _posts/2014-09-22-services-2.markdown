@@ -23,7 +23,7 @@ Vorresti richiedere un preventivo gratuito?
 Contattami liberamente via mail.
 </p>
 <br>
-<h4>Clienti</h4>
+<h4>CLIENTI</h4>
 <br>
 <div style="float:left;margin-right:1em;"><img src ="../img/Brooklyn Rail.jpg" alt="Brooklyn Rail"/>
 </div>
