@@ -27,7 +27,7 @@ Contattami liberamente via mail.
 <a href="https://www.proz.com/?sp=profile&eid_s=2997713&sp_mode=ctab&tab_id=6989">Traduzioni di esempio</a>
 </p>
 <br>
-<h4>Clienti</h4>
+<h4>CLIENTI</h4>
 <br> 
 <div style="float:left;margin-right:1em;"><img src ="../img/Brooklyn Rail.jpg" alt="Brooklyn Rail"/>
 <div style="float:left;margin-right:1em;"><img src= "../img/Translated.jpg" alt="Translated"/>
