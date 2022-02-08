@@ -30,6 +30,6 @@ Contattami liberamente via mail.
 <h4>Clienti</h4>
 <br> 
 <div style="float:left;margin-right:1em;"><img src ="../img/Brooklyn Rail.jpg" alt="Brooklyn Rail"/>
-<div style="float:left;margin-right:1em;"><img src= ""../img/Translated.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src= "../img/Translated.jpg" alt="Translated"/>
 </div> 
 
