@@ -23,5 +23,5 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <p>
 Vorresti prenotare una lezione? 
 <br>
-Contattami liberamente via mail per ricevere un preventivo.
+<a href="#contact">Contattami liberamente via mail</a> per ricevere un preventivo.
 </p>
