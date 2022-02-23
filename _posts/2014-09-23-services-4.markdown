@@ -34,7 +34,7 @@ Una volta acquistato un pacchetto di lezioni otterrai l’accesso al mio calenda
 <p>
 Vuoi cominciare a sgranchire il tuo inglese? 
 <br>
-Scrivimi una mail senza impegno per ricevere un preventivo.
+<a href="#contact">Scrivimi una mail senza impegno</a> per ricevere un preventivo.
 </p>
 <br>
 <p>
