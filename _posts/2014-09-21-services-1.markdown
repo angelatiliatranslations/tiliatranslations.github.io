@@ -20,7 +20,7 @@ Quando fai tradurre un testo le tue parole intraprendono un viaggio verso un’i
 <p>
 Vorresti richiedere un preventivo gratuito? 
 <br>
-Contattami liberamente via mail.
+<a href="#contact">Contattami liberamente via mail.</a>
 </p>
 <br>
 <p>
