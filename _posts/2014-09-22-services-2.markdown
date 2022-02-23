@@ -20,7 +20,7 @@ Spesso quello che si vuole ottenere dalla trascrizione di una registrazione non 
 <p>
 Vorresti richiedere un preventivo gratuito? 
 <br>
-Contattami liberamente via mail.
+<a href="#contact">Contattami liberamente via mail.</a>
 </p>
 <br>
 <h4>CLIENTI</h4>
