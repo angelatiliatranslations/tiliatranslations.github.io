@@ -2,7 +2,7 @@
 layout: default
 img: language refresh.jpg
 category: Services
-title: Ripetizioni di inglese online · Language Refresh 
+title: Lezioni di inglese online · Language Refresh 
 description: ripetizioni inglese online
 ---
 <p>
