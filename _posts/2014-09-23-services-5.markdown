@@ -36,4 +36,3 @@ Vorresti prenotare una lezione?
 <br>
 <a href="#contact">Contattami liberamente via mail</a> per ricevere un preventivo.
 </p>
-<p>🍂 <em>Promozione dell’equinozio d’autunno: A chi acquista una o più lezioni di inglese dal 13 settembre 2022 al 23 settembre 2022 (compresi) verrà applicato uno sconto del 15% sul totale.</em></p>
