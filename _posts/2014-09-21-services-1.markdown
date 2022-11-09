@@ -26,7 +26,7 @@ Vorresti richiedere un preventivo gratuito?
 <a href="#contact">Contattami liberamente via mail.</a>
 </p>
 <br>
-<h4>CLIENTI</h4>
+<h4>HO COLLABORATO CON:</h4>
 <br> 
 <div style="float:left;margin-right:1em;"><img src ="../img/Brooklyn Rail.jpg" alt="Brooklyn Rail"/>
 <div style="float:left;margin-right:1em;"><img src= "../img/Translated.jpg" alt="Translated"/>
