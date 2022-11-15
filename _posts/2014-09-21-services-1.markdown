@@ -30,6 +30,7 @@ Vorresti richiedere un preventivo gratuito?
 <br> 
 <div style="float:left;margin-right:1em;"><img src ="../img/Brooklyn Rail.jpg" alt="Brooklyn Rail"/>
 <div style="float:left;margin-right:1em;"><img src= "../img/Translated.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src= "../img/twblogo.jpg" alt="TWB"/>
 </div> 
 <br>
 
