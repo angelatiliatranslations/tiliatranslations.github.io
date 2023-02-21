@@ -31,12 +31,15 @@ Una volta acquistato un pacchetto di lezioni otterrai l’accesso al mio calenda
 <strong>✔️ Metodo di pagamento:</strong> bonifico bancario
 </p>
 <p>
-<strong>✔️ Tariffa oraria</strong>
+<strong>✔️ Tariffa per lezione da 45 minuti:</strong> €31.20
 </p>
 <p>
-Vuoi cominciare a sgranchire il tuo inglese? 
+<strong>✔️ Tariffa per lezione da 60 minuti:</strong> €41.60
+</p>
+<p>
+Vuoi cominciare a sgranchire il tuo inglese o ricevere maggiori informazioni? 
 <br>
-<a href="#contact">Scrivimi una mail senza impegno</a> per ricevere un preventivo.
+<a href="#contact">Scrivimi una mail senza impegno</a>.
 <br>
 <p>
 Leggi il post: <a href="https://angelatiliatranslations.github.io/blog/quanto-ci-vuole-per-imparare-una-lingua-puntare-su-un-allenamento-costante-%C3%A8-un-idea-migliore">Quanto ci vuole per imparare una lingua? Puntare su un allenamento costante è un’idea migliore</a>
