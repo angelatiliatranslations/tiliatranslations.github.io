@@ -35,7 +35,7 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <p>
 Vorresti prenotare una lezione o ricevere maggiori informazioni?
 <br>
-<a href="#contact">Contattami liberamente via mail</a>.
+<a href="#contact">Contattami liberamente via mail.</a>
 </p>
 
 
