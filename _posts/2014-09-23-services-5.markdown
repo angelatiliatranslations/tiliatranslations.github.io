@@ -1,0 +1,39 @@
+---
+layout: default
+img: language refresh.jpg
+category: Services
+title: Lezioni di inglese online · Language Refresh 
+description: ripetizioni inglese online
+---
+<p>
+Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spiegato, ma non riesci ancora a vederci chiaro e avresti bisogno di un aiuto in più per far accendere la lampadina e esclamare finalmente: “Ah, adesso ho capito!”. Se quello di cui hai bisogno è una bella rinfrescata su un tema specifico incontrato nel tuo percorso di apprendimento della lingua inglese, possiamo parlarne insieme in una videochiamata. Scrivimi una mail spiegandomi l’argomento che vuoi affrontare e segnalandomi se hai bisogno che prepari per te degli esercizi a tema. In seguito ti fornirò l’accesso al mio calendario e potrai prenotare una lezione nel giorno e all’orario che trovi più comodi. Volendo, avrai la possibilità di acquistare più lezioni in un’unica soluzione.
+</p>
+<blockquote>
+"Abbiamo avuto un’ottima esperienza. Angela è stata molto competente, disponibile e ha soddisfatto le nostre le nostre richieste."
+</blockquote>
+<blockquote>
+"Insegnante solare e sorridente, disponibile e aperta a proposte. Pronta a soddisfare le richieste dei ragazzi."
+</blockquote>
+<p>
+<strong>Tutto ciò che ti serve per partecipare</strong>: un dispositivo per le videochiamate con Google Meet e una mente aperta a guardare l’inglese sotto un'altra luce
+</p>
+<p>
+<strong>✔️ Supporto linguistico su un tema specifico, particolarmente indicato per studenti</strong>
+</p>
+<p>
+<strong>✔️ Durata lezioni:</strong> a scelta, da 60 o 45 minuti
+</p>
+<p>
+<strong>✔️ Metodo di pagamento:</strong> bonifico bancario
+</p>
+<p>
+<strong>✔️ Tariffa per lezione da 45 minuti:</strong> €31.20
+</p>
+<p>
+<strong>✔️ Tariffa per lezione da 60 minuti:</strong> €41.60
+</p>
+<p>
+Vorresti prenotare una lezione o ricevere maggiori informazioni?
+<br>
+<a href="#contact">Contattami liberamente via mail.</a>
+</p>
