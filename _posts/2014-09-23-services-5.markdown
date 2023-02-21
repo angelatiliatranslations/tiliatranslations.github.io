@@ -27,10 +27,13 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <strong>✔️ Metodo di pagamento:</strong> bonifico bancario
 </p>
 <p>
-<strong>✔️ Tariffa oraria</strong>
+<strong>✔️ Tariffa per lezione da 45 minuti:</strong> €31.20
 </p>
 <p>
-Vorresti prenotare una lezione? 
+<strong>✔️ Tariffa per lezione da 60 minuti:</strong> €41.60
+</p>
+<p>
+Vorresti prenotare una lezione o ricevere maggiori informazioni? 
 <br>
-<a href="#contact">Contattami liberamente via mail</a> per ricevere un preventivo.
+<a href="#contact">Contattami liberamente via mail</a>.
 </p>
