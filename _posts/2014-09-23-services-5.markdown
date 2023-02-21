@@ -34,7 +34,6 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 </p>
 <p>
 Vorresti prenotare una lezione o ricevere maggiori informazioni?
-</p>
 <br>
 <a href="#contact">Contattami liberamente via mail</a>.
 </p>
