@@ -33,7 +33,8 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <strong>✔️ Tariffa per lezione da 60 minuti:</strong> €41.60
 </p>
 <p>
-Vorresti prenotare una lezione o ricevere maggiori informazioni? 
+Vorresti prenotare una lezione o ricevere maggiori informazioni?
+</p>
 <br>
 <a href="#contact">Contattami liberamente via mail</a>.
 </p>
