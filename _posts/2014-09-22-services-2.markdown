@@ -2,7 +2,7 @@
 layout: default
 img: trascrizioni 2023.png
 category: Services
-title: Trascrizione di registrazioni in italiano e inglese
+title: Trascrizioni di registrazioni in italiano e inglese
 description: trascrizione audio in testo, trascrizione audio italiano
 ---
 <p>
