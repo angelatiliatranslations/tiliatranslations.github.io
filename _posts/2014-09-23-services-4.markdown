@@ -2,7 +2,8 @@
 layout: default
 img: l'inglese in pratica 2023.png
 category: Services
-title: Conversazione e esercizi di ascolto online in inglese · Practice your English
+title: L’inglese in pratica · Esercizi personalizzati di conversazione e ascolto in videochiamata
+subtitle: (ex Practice your English)
 description: lezioni inglese, lezioni a distanza inglese, lezioni inglese treviso, lezioni inglese individuali, inglese conversazione, inglese ascolto, lezioni inglese online
 ---
 <p>
