@@ -1,6 +1,6 @@
 ---
 layout: default
-img: revisioni.jpg
+img: revisioni 2023.png
 category: Services
 title: Revisioni di testi e di traduzioni in italiano
 description: revisione testi correzione, revisione testo, revisione traduzione inglese, revisione traduzione polacco
