@@ -5,9 +5,10 @@ category: Services
 title: L’inglese su misura · Lezioni di inglese con esercizi personalizzati
 description: ripetizioni inglese online
 ---
+<p><u>Per persone singole o gruppi</u></p>
 <p><em>(ex Language Refresh)</em></p>
 <p>
-Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spiegato, ma non riesci ancora a vederci chiaro e avresti bisogno di un aiuto in più per far accendere la lampadina e esclamare finalmente: “Ah, adesso ho capito!”. Se quello di cui hai bisogno è una bella rinfrescata su un tema specifico incontrato nel tuo percorso di apprendimento della lingua inglese, possiamo parlarne insieme in una videochiamata oppure di persona. Scrivimi una mail spiegandomi gli argomenti che vuoi affrontare in modo che possa preparare per te degli esercizi a tema. In seguito ti fornirò l’accesso al mio calendario e potrai prenotare una lezione nel giorno e all’orario che trovi più comodi. Volendo, avrai la possibilità di acquistare più lezioni in un’unica soluzione. Le lezioni in presenza a domicilio sono disponibili solo per residenti nel comune di Spresiano (TV) e limitrofi.
+Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spiegato, ma non riesci ancora a vederci chiaro e avresti bisogno di un aiuto in più per far accendere la lampadina e esclamare finalmente: “Ah, adesso ho capito!”. Se quello di cui hai bisogno è una bella rinfrescata su un tema specifico incontrato nel tuo percorso di apprendimento della lingua inglese, possiamo parlarne insieme in una videochiamata oppure di persona. Scrivimi una mail spiegandomi gli argomenti che vuoi affrontare in modo che possa preparare per te degli esercizi a tema. In seguito ti fornirò l’accesso al mio calendario e potrai prenotare una lezione nel giorno e all’orario che trovi più comodi. Volendo, avrai la possibilità di acquistare più lezioni in un’unica soluzione. Le lezioni in presenza a domicilio sono disponibili solo per residenti nel comune di Spresiano (TV) e limitrofi. Il percorso è adattabile anche a gruppi (in questo caso la tariffa verrà suddivisa tra i partecipanti).
 </p>
 <ul type="disc">    
     <li>Supporto linguistico su un tema specifico</li>
@@ -22,7 +23,7 @@ Ce l’hai messa proprio tutta per capire quell’argomento che ti è stato spie
 <p>
 <strong>Tutto ciò che ti serve per partecipare</strong>: una mente aperta a guardare l’inglese sotto un’altra luce e un dispositivo per le videochiamate con Google Meet per le lezioni online</p>
 <p>
-<strong>✔️ Particolarmente indicato per studenti</strong>
+<strong>✔️ Particolarmente indicato per studenti e gruppi di studenti</strong>
 </p>
 <p>
 <strong>✔️ Durata lezioni:</strong> a scelta, da 60 o 45 minuti
