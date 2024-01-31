@@ -2,7 +2,7 @@
 layout: default
 img: quattro chiecchiere in inglese 2023.png
 category: Services
-title: Quattro chiacchiere in inglese · Conversazione in gruppo per quattro partecipanti in videochiamata 
+title: Quattro chiacchiere in inglese · Conversazione di gruppo in videochiamata 
 description: lezioni inglese, lezioni a distanza inglese, lezioni inglese treviso, inglese conversazione, lezioni inglese online
 ---
 <p>
