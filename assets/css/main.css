@@ -2861,7 +2861,7 @@ input, select, textarea {
 }
 
 .slider .quote {
-  font-size: 40px;
+  font-size: 25px;
   font-style: italic;
 }
 
@@ -2887,6 +2887,14 @@ input, select, textarea {
 }
 
 .slider li.anim5 {
+  animation: cycle5 15s linear infinite;
+}
+
+.slider li.anim6 {
+  animation: cycle5 15s linear infinite;
+}
+
+.slider li.anim7 {
   animation: cycle5 15s linear infinite;
 }
 
