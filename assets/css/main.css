@@ -2871,31 +2871,31 @@ input, select, textarea {
 }
 
 .slider li.anim1 {
-  animation: cycle 30s linear infinite;
+  animation: cycle 28s linear infinite;
 }
 
 .slider li.anim2 {
-  animation: cycle2 30s linear infinite;
+  animation: cycle2 28s linear infinite;
 }
 
 .slider li.anim3 {
-  animation: cycle3 30s linear infinite;
+  animation: cycle3 28s linear infinite;
 }
 
 .slider li.anim4 {
-  animation: cycle4 30s linear infinite;
+  animation: cycle4 28s linear infinite;
 }
 
 .slider li.anim5 {
-  animation: cycle5 30s linear infinite;
+  animation: cycle5 28s linear infinite;
 }
 
 .slider li.anim6 {
-  animation: cycle6 30s linear infinite;
+  animation: cycle6 28s linear infinite;
 }
 
 .slider li.anim7 {
-  animation: cycle7 30s linear infinite;
+  animation: cycle7 28s linear infinite;
 }
 
 .slider:hover li {
