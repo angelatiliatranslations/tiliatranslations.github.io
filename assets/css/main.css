@@ -266,10 +266,6 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 2em;
 	}
 
-	slider {
-		background-color: #c4e4c4;
-	}
-
 	code {
 		background: rgba(144, 144, 144, 0.075);
 		border-radius: 4px;
