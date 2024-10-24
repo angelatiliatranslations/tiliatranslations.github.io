@@ -2827,6 +2827,9 @@ input, select, textarea {
 		}
 
 /* Slider */
+#slider {
+background-color: #c4e4c4;
+	}
 
 .content-slider {
   width: 100%;
