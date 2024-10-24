@@ -2827,8 +2827,10 @@ input, select, textarea {
 		}
 
 /* Slider */
+
 #slider {
-background-color: #c4e4c4;
+		padding: 5em 0 6em 0 ;
+		background-color: #c4e4c4;
 	}
 
 .content-slider {
@@ -3512,7 +3514,7 @@ background-color: #c4e4c4;
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #c4e4c4;
+		background-color: ;
 	}
 
 		#footer > .inner {
