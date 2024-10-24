@@ -3095,29 +3095,29 @@ input, select, textarea {
 	top: -325px;
 	opacity: 0;
   }
-  16% {
+  96% {
 	top: -325px;
 	opacity: 0;
   }
-  20% {
+  100% {
 	top: 0px;
 	opacity: 1;
   }
-  24% {
+  104% {
 	top: 0px;
 	opacity: 1;
   }
-  36% {
+  116% {
 	top: 0px;
 	opacity: 1;
 	z-index: 0;
   }
-  40% {
+  120% {
 	top: 325px;
 	opacity: 0;
 	z-index: 0;
   }
-  41% {
+  121% {
 	top: -325px;
 	opacity: 0;
 	z-index: -1;
@@ -3131,46 +3131,42 @@ input, select, textarea {
 
 @keyframes cycle7 {
   0% {
-	top: 0px;
+	top: -325px;
+	opacity: 0;
   }
-  4% {
-	top: 0px;
+  116% {
+	top: -325px;
+	opacity: 0;
   }
-  16% {
+  120% {
+	top: 0px;
+	opacity: 1;
+  }
+  124% {
+	top: 0px;
+	opacity: 1;
+  }
+  136% {
 	top: 0px;
 	opacity: 1;
 	z-index: 0;
   }
-  20% {
+  140% {
 	top: 325px;
 	opacity: 0;
 	z-index: 0;
   }
-  21% {
+  141% {
 	top: -325px;
 	opacity: 0;
 	z-index: -1;
-  }
-  50% {
-	top: -325px;
-	opacity: 0;
-	z-index: -1;
-  }
-  92% {
-	top: -325px;
-	opacity: 0;
-	z-index: 0;
-  }
-  96% {
-	top: -325px;
-	opacity: 0;
   }
   100% {
-	top: 0px;
-	opacity: 1;
+	top: -325px;
+	opacity: 0;
+	z-index: -1;
   }
 }
-
 
 
 /* Header */
