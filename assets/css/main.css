@@ -2835,7 +2835,7 @@ input, select, textarea {
 
 .slider {
   height: 320px;
-  width: 264px;
+  width: 680px;
   margin: 40px auto 0;
   overflow: visible;
   position: relative;
@@ -2853,13 +2853,12 @@ input, select, textarea {
 }
 
 .slider li {
-  width: 264px;
+  width: 680px;
   height: 320px;
   position: absolute;
   top: -325px;
   list-style: none;
 }
-
 
 .slider .quote {
   font-size: 23px;
