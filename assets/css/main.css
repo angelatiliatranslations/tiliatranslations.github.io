@@ -2871,7 +2871,7 @@ input, select, textarea {
 }
 
 .slider li.anim1 {
-  animation: cycle 20s linear infinite;
+  animation: cycle 25s linear infinite;
 }
 
 .slider li.anim2 {
